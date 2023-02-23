@@ -70,7 +70,7 @@ figcaption {
 #menu {
     list-style-type: none;
     margin: 1em 0 1em 0;
-    padding: 1em;
+    margin: 0.5em;
     overflow: hidden;
     background-color: orange;
     border-radius: 1em;
