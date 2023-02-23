@@ -74,6 +74,7 @@ figcaption {
     overflow: hidden;
     background-color: orange;
     border-radius: 1em;
+    font-size: medium;
 }
 
 #menu li {
