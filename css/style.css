@@ -1,0 +1,108 @@
+
+h1 {
+    color: green;
+    text-align: center;
+    margin: 0 0 0.5em 0;
+}
+
+h2 {
+    scroll-margin-top: 14em;
+}
+
+
+body {
+    margin: 0em 5em 5em 5em;
+    max-width: 50em;
+
+}
+
+figure img {
+    border-style: dotted;
+    border-width: 1;
+    border-color: grey;
+}
+
+figure {
+    /*display : inline-block;*/
+    margin: auto;
+    padding: 1em;
+    text-align: center;
+    /*
+    border-style: solid;
+    border-width: 1;
+    */
+}
+
+figcaption {
+    margin: 0.5em 0 0 0;
+}
+
+#lang {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 14pt;
+    color: green;
+}
+
+#header {
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+#content {
+    overflow: auto;
+}
+
+#lang a {
+    text-decoration: none;
+}
+
+#lang a:hover {
+    font-style: italic;
+}
+
+#logo {
+    text-align: center;
+}
+
+#menu {
+    list-style-type: none;
+    margin: 1em 0 1em 0;
+    padding: 1em;
+    overflow: hidden;
+    background-color: orange;
+    border-radius: 1em;
+}
+
+#menu li {
+    float: left;
+}
+
+#menu li a {
+    display: block;
+    color: lightyellow;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.5em;
+    text-decoration: none;
+}
+
+#menu li a:hover {
+    color: green;
+}
+
+.map {
+    height:250;
+    width:250;
+    object-fit: cover;
+}
+
+#map-BR-PI {
+    object-position: 35%;
+}
+
+#map-WWF {
+    object-position: 35%;
+}
