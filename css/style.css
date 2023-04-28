@@ -38,7 +38,7 @@ figcaption {
     position: absolute;
     top: 0;
     right: 0;
-    font-size: 14pt;
+    font-size: 18pt;
     color: green;
 }
 
@@ -65,8 +65,8 @@ figcaption {
 }
 
 #logo img {
-    width: 100;
-    height: 100;
+    width: 150;
+    height: 150;
 }
 
 #menu {
@@ -75,7 +75,7 @@ figcaption {
     list-style-type: none;
     background-color: orange;
     border-radius: 1em;
-    font-size: large;
+    font-size: 14pt;
 }
 
 #menu li {
@@ -103,7 +103,7 @@ figcaption {
 }
 
 .image {
-    height:300;
+    height:350;
 }
 
 #map-BR-PI {
